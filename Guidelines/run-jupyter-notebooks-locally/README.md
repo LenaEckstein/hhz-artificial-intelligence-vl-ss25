@@ -7,7 +7,7 @@ Note: There are multiple ways to work with [Jupyter](https://jupyter.org/) noteb
 2. Create a new conda environment and install required packages (use the latest available versions).
 ![](./screenshots/2a.png)
 ![](./screenshots/2b.png)
-  - The required packages will vary between exercises. Install at least `notebook`, `pandas`, `scikit-learn` and `matplotlib`, `seaborn`, `statsmodels`.
+  - The required packages will vary between exercises. Install at least `notebook`, `pandas`,  `numpy `, `scikit-learn` and `matplotlib`, `seaborn`, `statsmodels`.
 ![](./screenshots/2c.png)
   - Click apply and wait for the installation to finish.
 ![](./screenshots/2d.png)
